@@ -1,0 +1,5 @@
+product1 = int(input('enter quantity of product1'))
+product2 = int(input('enter quantity of product2'))
+product3 = int(input('enter quantity of product3'))
+Total_Product_cost = (product1*40 + product2*50  + product3*60)
+print(Total_Product_cost)
